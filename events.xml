@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<rss version="2.0">
+<rss xmlns:ev="http://purl.org/rss/1.0/modules/event/" version="2.0">
   <channel>
     <title>LSMSA School News</title>
-    <link>https://www.lsmsa.edu/news--events</link>
+    <link>https://www.lsmsa.edu/news</link>
     <description>Latest news from Louisiana School for Math, Science, and the Arts</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 4 Oct 2026 23:15:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 5 Oct 2026 10:16:59 GMT</lastBuildDate>
+    <item>
+      <title>LSMSA to Host 25th Annual McGrath Math Competition on November 19 (2026-10-04)</title>
+      <link>https://www.lsmsa.edu/page/news-detail?pk=1689625</link>
+      <description><![CDATA[School's faculty recently named No. 1 in the nation by Niche.com NATCHITOCHES, LA: Schools from across Louisiana will soon gather for the 25th Annual McGrath Math Competition at the Louisiana School for Math, Science, and the Arts in Natchitoches, LA, on Thursday, November 19, 2026. Teachers have until Friday, November 13, to register contestants for this event, which has become a cornerstone opportunity for Louisiana’s young mathematicians. More information and registration are available at www.lsmsa.edu/mathcompetition.]]></description>
+      <guid isPermaLink="true">https://www.lsmsa.edu/page/news-detail?pk=1689625</guid>
+      <ev:startdate>2026-10-04</ev:startdate>
+      <pubDate>Mon, 5 Oct 2026 02:48:38 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://bbk12e1-cdn.myschoolcdn.com/ftpimages/947/news/large_news1689625_1762378.png"/>
+    </item>
+    <item>
+      <title>LSMSA Announces Statewide Informational Session Dates for Fall 2026 (2026-09-29)</title>
+      <link>https://www.lsmsa.edu/page/news-detail?pk=1687475</link>
+      <description><![CDATA[Natchitoches, LA – The Louisiana School for Math, Science, and the Arts (LSMSA) invites prospective students and their families to attend an Informational Session this fall.]]></description>
+      <guid isPermaLink="true">https://www.lsmsa.edu/page/news-detail?pk=1687475</guid>
+      <ev:startdate>2026-09-29</ev:startdate>
+      <pubDate>Mon, 5 Oct 2026 02:48:38 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://bbk12e1-cdn.myschoolcdn.com/ftpimages/947/news/large_news1687475_1759958.png"/>
+    </item>
+    <item>
+      <title>LSMSA Faculty Ranked No. 1 in the Nation for the 2027 Niche Rankings (2026-09-29)</title>
+      <link>https://www.lsmsa.edu/page/news-detail?pk=1688738</link>
+      <description><![CDATA[NATCHITOCHES, LA. The Louisiana School for Math, Science, and the Arts (LSMSA) is proud to announce that its faculty has been named #1 Best Public High School Teachers in America by the newly released 2027 Niche.com rankings. Nationally, LSMSA also ranked #26 of 904 Best Magnet High Schools and #53 of 20,664 Best Public High Schools. The school also maintained its overall grade of A+.]]></description>
+      <guid isPermaLink="true">https://www.lsmsa.edu/page/news-detail?pk=1688738</guid>
+      <ev:startdate>2026-09-29</ev:startdate>
+      <pubDate>Mon, 5 Oct 2026 02:48:38 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://bbk12e1-cdn.myschoolcdn.com/ftpimages/947/news/large_news1688738_1761384.png"/>
+    </item>
+    <item>
+      <title>LSMSA's Statement regarding Lacaze arrest (2026-09-29)</title>
+      <link>https://www.lsmsa.edu/page/news-detail?pk=1686258</link>
+      <description><![CDATA[LSMSA's Statement regarding Lacaze arrest.]]></description>
+      <guid isPermaLink="true">https://www.lsmsa.edu/page/news-detail?pk=1686258</guid>
+      <ev:startdate>2026-09-29</ev:startdate>
+      <pubDate>Mon, 5 Oct 2026 02:48:38 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://bbk12e1-cdn.myschoolcdn.com/ftpimages/947/news/large_news1686258_1758854.png"/>
+    </item>
   </channel>
 </rss>
